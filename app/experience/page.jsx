@@ -5,8 +5,8 @@ import { motion } from "framer-motion";
 
 export default function ExperiencePage() {
   const events = [
-    { title: "Master 1 Big Data Analytics", subtitle: "Université Virtuelle de Côte d'Ivoire", duration: "Jul 2025 - Dec 2025" },
-    { title: "Data Analyst", subtitle: "WeCode - Abidjan", duration: "2024 - 2025" },
+    { title: "Data/IA", subtitle: "WeCode - Abidjan", duration: "Jul 2025 - Dec 2025" },
+    { title: "Master 1 Big Data Analytics", subtitle: "Université Virtuelle de Côte d'Ivoire", duration: "2024 - 2025" },
     { title: "Database Admin (Internship)", subtitle: "IPS-CGRAE - Abidjan", duration: "Aug 2024 - Nov 2024" },
     { title: "Licence in Computer Science (DB Option)", subtitle: "Université Virtuelle de Côte d'Ivoire", duration: "2020 - 2023" },
   ];
