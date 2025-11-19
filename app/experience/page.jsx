@@ -23,7 +23,7 @@ export default function ExperiencePage() {
         {/* Download CV Button */}
         <div className="flex justify-center mt-12">
           <motion.a
-            href="/CV_OKOU_HERMAN_AUGUSTIN.pdf.pdf" // Chemin vers ton CV
+            href="/CV_OKOU_HERMAN_AUGUSTIN.pdf" // Chemin vers ton CV
             download
             className="px-8 py-4 bg-blue-600 text-white rounded-lg shadow-lg hover:bg-blue-700 transition transform hover:-translate-y-1 hover:scale-105"
             initial={{ opacity: 0, y: 20 }}
