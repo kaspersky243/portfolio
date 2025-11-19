@@ -15,7 +15,7 @@ export default function AboutSection() {
           transition={{ duration: 1 }}
         >
           <img
-            src="/profile-placeholder.png" // Remplacer par ta photo ou illustration
+            src="/imge.png" // Remplacer par ta photo ou illustration
             alt="Okou Hermann"
             className="rounded-xl shadow-lg w-full object-cover"
           />
